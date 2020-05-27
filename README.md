@@ -6,3 +6,8 @@ githubでリモートリポジトリ作ろうとしたらエラーが出た
 →tata_testをローカルにクローンした。
 →readme編集なう
 5/27 19:15
+
+branchの練習（branch1）
+branch1で編集なう
+これをmasterに後ほどcomitすべし
+5/27 19:25
